@@ -1,3 +1,3 @@
 # CertificateOOP
 <img src="Hackerrank.jpg">
-<img src="Greatlearning.jpg">
+<img src="GreatLearning.jpg">
